@@ -12,6 +12,8 @@ dependencies:
 
   cupertino_icons: ^0.1.2
 
+  audioplayers: ^0.16.1
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
@@ -23,3 +25,7 @@ flutter:
   assets:
     - assets/
 
+  fonts:
+    - family: Pacifico
+      fonts:
+        - asset: fonts/Pacifico-Regular.ttf
